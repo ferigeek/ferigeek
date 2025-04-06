@@ -4,7 +4,7 @@
 
 |also ...|
 |---|
-|[![My Skills](https://skillicons.dev/icons?i=django,dotnet,git,html)](https://skillicons.dev)
+|[![My Skills](https://skillicons.dev/icons?i=django,dotnet,git,html,css,bootstrap,vim)](https://skillicons.dev)
 
 |Github Stats|Most Used Languages|
 |---|---|
